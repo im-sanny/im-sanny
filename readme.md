@@ -1,3 +1,5 @@
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=im-sanny.im-sanny" />
 
 <h1 align="center">
@@ -57,16 +59,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-im-sanny.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.im-sanny.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-im-sanny.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=im-sanny&show_icons=true&locale=en&theme=tokyonight" alt="im-sanny" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-sanny&&theme=tokyonight" alt="im-sanny" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-sanny&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="im-sanny" /></p>
 </div>
-
-<br/><br/>
 
 <hr/>
 
 <br/>
-
 <br/>
