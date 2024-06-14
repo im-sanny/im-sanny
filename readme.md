@@ -39,7 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs" /><br>
 </div>
 
@@ -59,8 +59,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=im-sanny&show_icons=true&locale=en&theme=tokyonight" alt="im-sanny" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-sanny&&theme=tokyonight" alt="im-sanny" /></p>
+ <p><img align="" src="https://github-readme-stats.vercel.app/api?username=im-sanny&show_icons=true&locale=en&theme=tokyonight" alt="im-sanny" /></p>
+ <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=im-sanny&&theme=tokyonight" alt="im-sanny" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-sanny&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="im-sanny" /></p>
 </div>
 
