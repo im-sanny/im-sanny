@@ -14,7 +14,7 @@
  
  🔭 I’m currently looking for **a job**
  
- 🌱 I’m currently learning **Next Js **
+ 🌱 I’m currently learning **Next Js**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/im-sanny/im-sanny/issues)**
 
@@ -33,9 +33,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
- <hr/>
- 
+ <hr/> 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
