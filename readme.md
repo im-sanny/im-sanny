@@ -47,11 +47,18 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
- <p><img align="" src="https://github-readme-stats.vercel.app/api?username=im-sanny&show_icons=true&locale=en&theme=tokyonight" alt="im-sanny" /></p>
- <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=im-sanny&&theme=tokyonight" alt="im-sanny" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-sanny&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="im-sanny" /></p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=im-sanny&show_icons=true&locale=en&theme=tokyonight" alt="im-sanny" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=im-sanny&&theme=tokyonight" alt="im-sanny" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-sanny&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="im-sanny" height="200px"/></td>
+    </tr>
+  </table>
 </div>
+
 
 <hr/>
 
