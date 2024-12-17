@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+Digital+Space!;Frontend+Developer+in+Progress;Learning+and+Growing+Every+Day" />
 </p>
 
-## 🚀 About Me
+## 👨‍🎓 About Me
 
 I'm a passionate junior web developer from Bangladesh, on an exciting journey to transform creative ideas into interactive web experiences. Currently expanding my skills in the ever-evolving world of web development.
 
@@ -25,7 +25,7 @@ I'm a passionate junior web developer from Bangladesh, on an exciting journey to
 ### Design and Deployment
 ![Design Tools](https://skillicons.dev/icons?i=tailwind,figma,vercel,netlify)
 
-## 🧙‍♂️ What Makes Me Unique
+## 🦸‍♂️ What Makes Me Unique
 
 - 🛠️ Problem solver with a knack for turning complex challenges into elegant solutions
 - 🤝 Strong believer in collaborative development and continuous learning
