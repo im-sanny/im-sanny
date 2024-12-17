@@ -47,7 +47,7 @@ I'm a passionate junior web developer from Bangladesh, on an exciting journey to
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-sanny&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="200px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-sanny&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150px"/>
       </td>
     </tr>
   </table>
