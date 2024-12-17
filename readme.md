@@ -1,66 +1,62 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+# Hi there! I'm Rasel Parvez Sanny 👋
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=im-sanny.im-sanny" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+Digital+Space!;Frontend+Developer+in+Progress;Learning+and+Growing+Every+Day" />
+</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rasel+Parvez+Sanny!;" />
-</h1>
+## 🚀 About Me
 
-<h3 align="center">A passionate web developer from Bangladesh </h3>
+I'm a passionate junior web developer from Bangladesh, on an exciting journey to transform creative ideas into interactive web experiences. Currently expanding my skills in the ever-evolving world of web development.
 
-<br/>
+## 🔭 Current Focus
 
-<div align="center">
- 
- 🔭 I’m currently looking for **a job**
- 
- 🌱 I’m currently learning **Next Js**
+- 🌱 **Learning:** Deep diving into Next.js and TypeScript
+- 💼 **Seeking:** Opportunities to contribute and grow as a frontend developer
+- 🎯 **Goal:** To build innovative, user-friendly web applications that make a difference
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/im-sanny/im-sanny/issues)**
+## 💻 Tech Stack
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+### Languages and Frameworks
+![Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,typescript,html,css)
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:raselparvezsanny@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="www.linkedin.com/in/im-sanny" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://imsanny.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
- <hr/> 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,vite,express,mongodb,firebase,git," /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,npm,html,css,vscode,github,figma,canva" /><br>
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,surge" /><br>
-</div>
+### Tools and Platforms
+![Tools](https://skillicons.dev/icons?i=vite,express,mongodb,firebase,git,github)
 
-<br/>
-<hr/>
+### Design and Deployment
+![Design Tools](https://skillicons.dev/icons?i=tailwind,figma,vercel,netlify)
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+## 🧙‍♂️ What Makes Me Unique
+
+- 🛠️ Problem solver with a knack for turning complex challenges into elegant solutions
+- 🤝 Strong believer in collaborative development and continuous learning
+- 🎨 Blend of technical skills and creative thinking
+
+## 📫 Let's Connect!
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:raselparvezsanny@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/im-sanny)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://imsanny.vercel.app)
+
+## 📊 My GitHub Journey
+
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=im-sanny&show_icons=true&locale=en&theme=tokyonight" alt="im-sanny" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=im-sanny&&theme=tokyonight" alt="im-sanny" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=im-sanny&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=im-sanny&&theme=tokyonight" alt="GitHub Streak" /></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-sanny&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="im-sanny" height="200px"/></td>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-sanny&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="200px"/>
+      </td>
     </tr>
   </table>
 </div>
 
+## 🌟 Fun Fact
 
-<hr/>
+Always up for a coding challenge and a good cup of coffee! ☕👨‍💻
 
-<br/>
-<br/>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=im-sanny.im-sanny" alt="Visitor Badge" />
+</p>
