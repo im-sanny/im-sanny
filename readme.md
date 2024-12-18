@@ -17,7 +17,7 @@ I'm a passionate junior web developer from Bangladesh, on an exciting journey to
 ## 💻 Tech Stack
 
 ### Languages and Frameworks
-![Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,html,css)
+![Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,html,css)
 
 ### Tools and Platforms
 ![Tools](https://skillicons.dev/icons?i=vite,express,mongodb,firebase,git,github)
