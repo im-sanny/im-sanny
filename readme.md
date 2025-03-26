@@ -1,3 +1,4 @@
+
 # Hi there! I'm Rasel Parvez Sanny 👋
 
 <p align="center">
@@ -55,7 +56,7 @@ I'm a passionate junior web developer from Bangladesh, on an exciting journey to
 
 ## 🌟 Fun Fact
 
-Always up for a coding challenge and a good cup of coffee! ☕👨‍💻
+Always up for a coding challenge and a cup of coffee! ☕👨‍💻
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=im-sanny.im-sanny" alt="Visitor Badge" />
