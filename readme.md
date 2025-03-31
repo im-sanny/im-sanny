@@ -9,7 +9,7 @@
 
 I'm a passionate junior web developer from Bangladesh, on an exciting journey to transform creative ideas into interactive web experiences. Currently expanding my skills in the ever-evolving world of web development.
 
-## 🔭 Current Focus
+## 🔎 Current Focus
 
 - 🌱 **Learning:** Deep diving into Next.js and TypeScript
 - 💼 **Seeking:** Opportunities to contribute and grow as a frontend developer
