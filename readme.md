@@ -26,7 +26,7 @@ I'm a passionate junior web developer from Bangladesh, on an exciting journey to
 ### Design and Deployment
 ![Design Tools](https://skillicons.dev/icons?i=tailwind,figma,vercel,netlify)
 
-## 🦸‍♂️ What Makes Me Unique
+## ✨ What Makes Me Unique
 
 - 🛠️ Problem solver with a knack for turning complex challenges into elegant solutions
 - 🤝 Strong believer in collaborative development and continuous learning
